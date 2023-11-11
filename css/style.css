@@ -172,3 +172,24 @@ background-position: center center; */
     font-weight: 600 !important;
 
 }
+
+
+    @media only screen and (max-width: 600px) {
+
+        .carousel-item h1{
+            font-size: 20px;
+            font-weight: bolder;
+            font-family: 'Pacifico', cursive;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .nav-item {
+            padding: 10px;
+        }
+
+      
+    }
+
+  
+
+
